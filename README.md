@@ -2,7 +2,7 @@
 
 **Automation Engineer | Systems Architect | AI + Business Workflow Platforms**
 
-I design and build **production-grade automation systems** for real operational environments — where reliability, maintainability, and clarity matter more than demos.
+I design and build production-grade automation and AI-enhanced workflows for real operational environments — where reliability, maintainability, and clarity matter more than demos.
 
 ---
 
