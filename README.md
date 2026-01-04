@@ -3,6 +3,7 @@
 **Automation Engineer | Systems Architect | AI + Business Workflow Platforms**
 
 I design and build production-grade automation and AI-enhanced workflows for real operational environments — where reliability, maintainability, and clarity matter more than demos.
+I also design and integrate AI-enhanced workflows and systems that augment human decision flows and automate complex pattern extraction.
 
 ---
 
@@ -60,9 +61,17 @@ This repository reflects **patterns and architectures** I use in client systems.
 
 ---
 
+## Web3 identity (exploratory)
+I’m exploring **decentralized identity and verification** as a complement to traditional platforms — focusing on identity ownership, verifiable presence, and long-lived digital attribution rather than speculation.
+
+This includes experimenting with ENS-based identity and cryptographic proof concepts as they relate to software authorship and system trust.
+
+---
+
 ## Links
 - 🌐 https://autherix.com  
-- 🤖 https://autherix.ai  
+- 🤖 https://autherix.ai
+- 🔐 Web3 identity (ENS): autherix.eth
 - 💻 https://github.com/autherixOfficial  
 - 💬 Stack Overflow: https://stackoverflow.com/users/32083185
 
