@@ -71,8 +71,8 @@ This includes experimenting with ENS-based identity and cryptographic proof conc
 ## Links
 - 🌐 https://autherix.com  
 - 🤖 https://autherix.ai
-- 🔐 Web3 identity (ENS): autherix.eth
 - 💻 https://github.com/autherixOfficial  
 - 💬 Stack Overflow: https://stackoverflow.com/users/32083185
+- 🔐 Web3 identity (ENS): autherix.eth
 
 
