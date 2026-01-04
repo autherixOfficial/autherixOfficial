@@ -14,6 +14,15 @@ I design and build production-grade automation and AI-enhanced workflows for rea
 - System glue between platforms that don’t natively talk
 - AI integrations (LLM-powered assistants, automation, and internal tools)
 
+## Tech stack & tools
+- Python
+- Google Apps Script
+- REST APIs
+- Webhooks
+- OAuth
+- scheduler logic
+- LLM integrations
+
 ---
 
 ## AI work
@@ -39,9 +48,15 @@ Most of my work solves messy, real-world problems where trade-offs matter and fa
 
 ## Featured work
 ### 🔹 autherix-automations
-Production-grade business automations including Slack bots, Google Workspace integrations, workflow orchestration, and data pipelines — built for real operational use, not demos.
+Production-grade business automations including Slack bots, Google Workspace integrations, workflow orchestration, and data pipelines — built for real operational use, not demos.  These include event-driven processes, API orchestration layers, webhook pipelines, scheduled workflows, and modular services designed to handle errors and retries.
 
 This repository reflects **patterns and architectures** I use in client systems. Much of my production work is private, but the approach is the same.
+
+### Example pattern (API → Sheet → Trigger)
+1. Ingest JSON data via authenticated API call  
+2. Normalize and validate fields  
+3. Write to Google Sheet / database  
+4. Trigger downstream processes (Slack, notification)
 
 ---
 
